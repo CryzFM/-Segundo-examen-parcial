@@ -5,11 +5,11 @@ Este repositorio contiene la implementación de una **lista doblemente enlazada 
 
 ## 📎 Enlaces obligatorios
 
-- **Repositorio GitHub**: [https://github.com/tu-usuario/tu-repositorio](https://github.com/tu-usuario/tu-repositorio)  
-  *(Reemplaza con la URL real de tu repositorio público)*
+- **Repositorio GitHub**: https://github.com/CryzFM/-Segundo-examen-parcial
+
 
 - **Video explicativo (YouTube o Google Drive)**: [https://youtu.be/XXXXXXXXXXX](https://youtu.be/XXXXXXXXXXX)  
-  *(Duración: entre 5 y 15 minutos. Reemplaza con tu enlace)*
+
 
 ## 📁 Estructura del proyecto
 
